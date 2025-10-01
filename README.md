@@ -37,8 +37,7 @@ CARGO achieves **up to 86% accuracy**, outperforming individual LLMs across codi
 
 ## 🧭 Pipeline Overview
 
-```mermaid
-flowchart TD
+```
     A[Prompt Dataset] --> B[LLM Response Collection]
     B --> C[Pairwise LLM Annotation]
     C --> D[Ranked CSV]
