@@ -23,13 +23,13 @@ CARGO achieves **up to 86% accuracy**, outperforming individual LLMs across codi
 
 1. **Python ≥ 3.8**  
 2. Install dependencies:
-   ```bash
+```
    pip install -r requirements.txt
-````
+```
 
 3. (Optional) If collecting new responses, set your [OpenRouter](https://openrouter.ai) API key:
 
-   ```bash
+   ```
    export OPENROUTER_API_KEY="your-api-key"
    ```
 
