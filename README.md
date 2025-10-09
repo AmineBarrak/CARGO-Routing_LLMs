@@ -125,7 +125,7 @@ Notebook:
 **Inputs:**
 
 * `Full Dataset Ranking/ranked_responses_final.csv`
-* `Training/df_processed.pkl` (optional metadata file)
+* `Training/df_processed.pkl` 
 
 **What it does:**
 
@@ -223,6 +223,7 @@ C:.
 └───Training
         Binary Dataet.ipynb
         df_pairwise.pkl
+        df_processed.pkl
         df_pairwise_v2.pkl
         ranked_responses_final.csv
         train_category_NEW.ipynb
